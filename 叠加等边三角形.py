@@ -1,0 +1,17 @@
+import turtle
+turtle.showturtle()
+turtle.fd(100)
+turtle.speed(5)
+turtle.lt(120)
+turtle.fd(100)
+turtle.lt(120)
+turtle.fd(50)
+turtle.lt(120)
+turtle.fd(50)
+turtle.right(120)
+turtle.fd(50)
+turtle.right(120)
+turtle.fd(50)
+turtle.lt(120)
+turtle.fd(50)
+
